@@ -1,6 +1,6 @@
-<!-- <p align="center">
-  <img src="https://i.ibb.co.com/60VvMxjq/mern.png" alt="Nafi Mahmud Bukhari Banner" />
-</p> -->
+<p align="center">
+  <img src="https://i.ibb.co/60VvMxjq/mern.png" alt="Nafi Mahmud Bukhari Banner" />
+</p> 
 
 # 👋 Hi, I'm Nafi Mahmud Bukhari
 
