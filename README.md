@@ -1,16 +1,79 @@
-## Hi there 👋
+<!-- <p align="center">
+  <img src="https://i.ibb.co.com/60VvMxjq/mern.png" alt="Nafi Mahmud Bukhari Banner" />
+</p> -->
 
-<!--
-**nafi0123/nafi0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Nafi Mahmud Bukhari
 
-Here are some ideas to get you started:
+## **MERN Stack Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nafi0123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+Hello! I'm **Nafi Mahmud Bukhari**, a passionate **MERN Stack Developer** from Bangladesh. I study at **Barisal Information Technology College (BITC)**, currently in **7th Semester**.
+
+As a full-stack enthusiast, I specialize in creating robust and scalable web applications using the **MERN stack (MongoDB, Express, React, Node.js)**. My work is driven by a commitment to clean code and efficient problem-solving.
+
+Beyond web development, I am heavily involved in Competitive Programming. My strong foundation in Data Structures and Algorithms has been validated by successfully qualifying for the **ICPC 2024 Dhaka Regional Contest** as part of a dedicated team. This blend of software development skills and algorithmic thinking allows me to tackle complex technical challenges effectively.
+
+I enjoy:
+* Building **modern web applications**.
+* Exploring **new technologies**.
+* Solving **real-world problems**.
+
+### 🔥 Current Activities
+* Exploring **Next.js** for full-stack development.
+* Building **MERN-based full-stack applications**.
+* Learning Backend Optimization & **API Security**.
+
+---
+
+## 💡 Problem Solving & Competitive Programming
+
+* Solved **500+ problems** across **Codeforces**, **LeetCode**, **beecrowd**, **HackerRank**, and **Code360**.
+* Twice qualified for the **ICPC Dhaka Regional Contest (2024)**.
+* **Mastery** in core **Data Structures and Algorithms (DSA)**, utilizing them to optimize solutions.
+
+---
+
+## 📜 Licenses & Certifications
+
+* **ICPC 2024:** [Click Here](https://drive.google.com/file/d/1jjixBsMo8QIRo0Ed0BMmMfCrCOEUHlpC/view?usp=drive_link)
+* **Prithon Programming Contest 2022:** [Click Here](https://drive.google.com/file/d/1SMyicTDuThbPXNoMZFtJqU1S9njx2uIH/view?usp=drive_link)
+* **BITC Programming Contest (1st Position):** [Click Here](https://drive.google.com/file/d/1D5R8CTTYgcYkqLKnXvSOzHbXay09awYx/view?usp=drive_link)
+
+---
+
+## 📬 Contact & Connect
+
+Feel free to reach out to me or connect with me on **LinkedIn**!
+
+You can also find me on:
+* **Email:** nafi.cse0123@gmail.com
+* **LinkedIn:** [Click Here](https://linkedin.com/in/nafi-mahmud-bukhari-301493269)
+* **Facebook:** [Click Here](https://fb.com/nafimahmud.bukhari)
+
+Let's connect and discuss exciting opportunities!
+
+---
+
+## 💻 Skills & Technologies
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Frontend** | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+
+---
+
+## 📊 My GitHub Stats
+
+| Top Languages | GitHub Stats |
+| :---: | :---: |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nafi0123&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nafi0123&theme=dark&hide_border=true&include_all_commits=true&count_private=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f) |
