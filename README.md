@@ -13,11 +13,14 @@
 ---
 
 ## 🧑‍💻 About Me
-Hello! I'm **Nafi Mahmud Bukhari**, a passionate **MERN Stack Developer** from Bangladesh. I study at **Barisal Information Technology College (BITC)**, currently in **7th Semester**.
+I'm a passionate **MERN Stack Developer** from Bangladesh.  
+Currently, I am studying at **Barisal Information Technology College (BITC)**, in my **7th Semester**.
 
-As a full-stack enthusiast, I specialize in creating robust and scalable web applications using the **MERN stack (MongoDB, Express, React, Node.js)**. My work is driven by a commitment to clean code and efficient problem-solving.
+As a full-stack enthusiast, I specialize in creating robust and scalable web applications using the **MERN stack (MongoDB, Express, React, Node.js)**.  
+My work is driven by a commitment to clean code and efficient problem-solving.
 
-Beyond web development, I am heavily involved in Competitive Programming. My strong foundation in Data Structures and Algorithms has been validated by successfully qualifying for the **ICPC 2024 Dhaka Regional Contest** as part of a dedicated team. This blend of software development skills and algorithmic thinking allows me to tackle complex technical challenges effectively.
+Beyond web development, I am actively involved in Competitive Programming.  
+My strong foundation in **Data Structures and Algorithms** allows me to tackle complex technical challenges effectively.
 
 I enjoy:
 * Building **modern web applications**.
