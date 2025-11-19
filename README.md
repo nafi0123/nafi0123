@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/60VvMxjq/mern.png" alt="Nafi Mahmud Bukhari Banner" />
+  <img src="https://github.com/nafi0123/nafi0123/blob/main/assets/Banner.png" alt="Nafi Mahmud Bukhari Banner" />
 </p> 
 
 # 👋 Hi, I'm Nafi Mahmud Bukhari
