@@ -47,7 +47,7 @@ I enjoy:
 * **ICPC 2024:** [Click Here](https://drive.google.com/file/d/1jjixBsMo8QIRo0Ed0BMmMfCrCOEUHlpC/view?usp=drive_link)
 * **Prithon Programming Contest 2022:** [Click Here](https://drive.google.com/file/d/1SMyicTDuThbPXNoMZFtJqU1S9njx2uIH/view?usp=drive_link)
 * **BITC Programming Contest (1st Position):** [Click Here](https://drive.google.com/file/d/1D5R8CTTYgcYkqLKnXvSOzHbXay09awYx/view?usp=drive_link)
-* ** Complete Web Development:** [Click Here](https://drive.google.com/file/d/1kFUzyVMQwbgtbpfTBElkJA0uajfRWf1b/view?usp=drive_link)
+* **Complete Web Development:** [Click Here](https://drive.google.com/file/d/1kFUzyVMQwbgtbpfTBElkJA0uajfRWf1b/view?usp=drive_link)
 
 ---
 
