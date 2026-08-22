@@ -61,12 +61,7 @@
 
 - 🚩 **ICPC 2024:** Participated in **ICPC Dhaka Regional Contest 2024**.
 - 🥇 **1st Place:** BITC Programming Contest Champion.
-- ⚡ **500+ Problems Solved** across top competitive programming platforms:
-  - 🔵 **Codeforces:** [nafi_cse0123](https://codeforces.com/profile/nafi_cse0123)
-  - 🟡 **LeetCode:** [nafi_cse0123](https://leetcode.com/u/nafi_cse0123/)
-  - 🟢 **HackerRank:** [nafi_cse0123](https://www.hackerrank.com/profile/nafi_cse0123)
-  - 🐝 **beecrowd:** [620681](https://judge.beecrowd.com/en/profile/620681)
-  - 🟧 **Code360:** [Profile Link](https://www.naukri.com/code360/profile/874dd4b1-dae6-4411-b3e3-b01b1bcd0ed9)
+- ⚡ **500+ Problems Solved** across top platforms: [Codeforces](https://codeforces.com/profile/nafi_cse0123) • [LeetCode](https://leetcode.com/u/nafi_cse0123/) • [HackerRank](https://www.hackerrank.com/profile/nafi_cse0123) • [beecrowd](https://judge.beecrowd.com/en/profile/620681) • [Code360](https://www.naukri.com/code360/profile/874dd4b1-dae6-4411-b3e3-b01b1bcd0ed9)
 
 ---
 
@@ -81,11 +76,7 @@
 
 ---
 
-### 📊 GitHub Activity & Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nafi0123&theme=dark" alt="GitHub Streak" width="98%" />
-</p>
+### 📊 GitHub Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nafi0123&theme=github-compact" alt="Activity Graph" width="98%" />
