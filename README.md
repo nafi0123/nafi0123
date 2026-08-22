@@ -62,26 +62,11 @@
 - 🚩 **ICPC 2024:** Participated in **ICPC Dhaka Regional Contest 2024**.
 - 🥇 **1st Place:** BITC Programming Contest Champion.
 - ⚡ **500+ Problems Solved** across top competitive programming platforms:
-
-<p align="center">
-  <a href="https://codeforces.com/profile/nafi_cse0123" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-nafi__cse0123-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://leetcode.com/u/nafi_cse0123/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-nafi__cse0123-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/nafi_cse0123" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-nafi__cse0123-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
-  </a>
-  <a href="https://judge.beecrowd.com/en/profile/620681" target="_blank">
-    <img src="https://img.shields.io/badge/beecrowd-620681-0080FF?style=for-the-badge" alt="beecrowd" />
-  </a>
-  <a href="https://www.naukri.com/code360/profile/874dd4b1-dae6-4411-b3e3-b01b1bcd0ed9" target="_blank">
-    <img src="https://img.shields.io/badge/Code360-Profile-FF6F00?style=for-the-badge" alt="Code360" />
-  </a>
-</p>
-
-- 🔗 Direct Links: [Codeforces](https://codeforces.com/profile/nafi_cse0123) | [LeetCode](https://leetcode.com/u/nafi_cse0123/) | [HackerRank](https://www.hackerrank.com/profile/nafi_cse0123) | [beecrowd](https://judge.beecrowd.com/en/profile/620681) | [Code360](https://www.naukri.com/code360/profile/874dd4b1-dae6-4411-b3e3-b01b1bcd0ed9)
+  - 🔵 **Codeforces:** [nafi_cse0123](https://codeforces.com/profile/nafi_cse0123)
+  - 🟡 **LeetCode:** [nafi_cse0123](https://leetcode.com/u/nafi_cse0123/)
+  - 🟢 **HackerRank:** [nafi_cse0123](https://www.hackerrank.com/profile/nafi_cse0123)
+  - 🐝 **beecrowd:** [620681](https://judge.beecrowd.com/en/profile/620681)
+  - 🟧 **Code360:** [Profile Link](https://www.naukri.com/code360/profile/874dd4b1-dae6-4411-b3e3-b01b1bcd0ed9)
 
 ---
 
