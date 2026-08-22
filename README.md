@@ -62,7 +62,26 @@
 - 🚩 **ICPC 2024:** Participated in **ICPC Dhaka Regional Contest 2024**.
 - 🥇 **1st Place:** BITC Programming Contest Champion.
 - ⚡ **500+ Problems Solved** across top competitive programming platforms:
-  - **Codeforces** | **LeetCode** | **HackerRank** | **beecrowd** | **Code360**
+
+<p align="center">
+  <a href="https://codeforces.com/profile/nafi_cse0123" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-nafi__cse0123-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://leetcode.com/u/nafi_cse0123/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-nafi__cse0123-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/nafi_cse0123" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-nafi__cse0123-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+  </a>
+  <a href="https://judge.beecrowd.com/en/profile/620681" target="_blank">
+    <img src="https://img.shields.io/badge/beecrowd-620681-0080FF?style=for-the-badge" alt="beecrowd" />
+  </a>
+  <a href="https://www.naukri.com/code360/profile/874dd4b1-dae6-4411-b3e3-b01b1bcd0ed9" target="_blank">
+    <img src="https://img.shields.io/badge/Code360-Profile-FF6F00?style=for-the-badge" alt="Code360" />
+  </a>
+</p>
+
+- 🔗 Direct Links: [Codeforces](https://codeforces.com/profile/nafi_cse0123) | [LeetCode](https://leetcode.com/u/nafi_cse0123/) | [HackerRank](https://www.hackerrank.com/profile/nafi_cse0123) | [beecrowd](https://judge.beecrowd.com/en/profile/620681) | [Code360](https://www.naukri.com/code360/profile/874dd4b1-dae6-4411-b3e3-b01b1bcd0ed9)
 
 ---
 
@@ -80,7 +99,7 @@
 ### 📊 GitHub Activity & Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nafi0123&background=0D1117&border=30363D&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=C9D1D9&sideTitle=38BDF8" alt="GitHub Streak" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=nafi0123&theme=dark" alt="GitHub Streak" width="98%" />
 </p>
 
 <p align="center">
