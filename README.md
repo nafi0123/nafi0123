@@ -75,13 +75,6 @@
 
 ---
 
-### 📊 GitHub Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nafi0123&theme=github-compact" alt="Activity Graph" width="98%" />
-</p>
-
----
 
 ### 🌐 Let's Connect!
 
