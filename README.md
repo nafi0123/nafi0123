@@ -69,10 +69,9 @@
 
 | Milestone / Certification | Issuer & Details | Verification Link |
 | :--- | :--- | :---: |
-| 🏆 **ICPC Dhaka Regional 2024** | International Collegiate Programming Contest | [View Certificate](https://drive.google.com/file/d/1jjixBsMo8QIRo0Ed0BMmMfCrCOEUHlpC/view?usp=drive_link) |
-| 🥇 **BITC Programming Contest** | **1st Position** Champion | [View Certificate](https://drive.google.com/file/d/1D5R8CTTYgcYkqLKnXvSOzHbXay09awYx/view?usp=drive_link) |
-| 💻 **Complete Web Development** | Full-Stack MERN & Next.js Specialization | [View Certificate](https://drive.google.com/file/d/1kFUzyVMQwbgtbpfTBElkJA0uajfRWf1b/view?usp=drive_link) |
-| 🏅 **Prithon Programming Contest 2022** | Competitive Programming Contest | [View Certificate](https://drive.google.com/file/d/1SMyicTDuThbPXNoMZFtJqU1S9njx2uIH/view?usp=drive_link) |
+| 🏆 **ICPC Dhaka Regional 2024** | International Collegiate Programming Contest | [View Certificate](https://drive.google.com/file/d/10QQnZRJ209hBRrXz9mGfFkfaDZVcXL5t/view?usp=sharing) |
+| 🥇 **BITC Programming Contest** | **1st Position** Champion | [View Certificate](https://drive.google.com/file/d/15QixVUExWq7ri4Y8OEDkYUqlZEPGPDMB/view?usp=sharing) |
+| 🏅 **Prithon Programming Contest 2022** | Competitive Programming Contest | [View Certificate](https://drive.google.com/file/d/1ZBo4PkUCepY37zQWpxYvZWvBVOKQbWiA/view?usp=drive_link) |
 
 ---
 
